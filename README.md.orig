@@ -1,0 +1,9 @@
+This is a simple readme file
+adding something
+#Heading 2
+changed something
+<<<<<<< HEAD
+this will cause a problem
+=======
+das wird conflicts machen
+>>>>>>> very-bad
